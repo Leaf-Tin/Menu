@@ -1,7 +1,7 @@
 # Pecel Pincuk Godong Ijo
 ![COVER DEPAN P](https://user-images.githubusercontent.com/80503416/111864164-078f6280-8992-11eb-823c-c9daa5cdef05.jpg)
 ![1-2 P](https://user-images.githubusercontent.com/80503416/111864191-1fff7d00-8992-11eb-91ae-1a9971e54f9d.jpg)
-![3-4 P](https://user-images.githubusercontent.com/80503416/113726940-dc8d6880-971e-11eb-8876-3244b369b1ee.jpg)
+![3-4 P](https://user-images.githubusercontent.com/80503416/114995478-105b5180-9ec8-11eb-8d22-8a5e09c3f8d5.jpg)
 ![5-6 P](https://user-images.githubusercontent.com/80503416/113727039-f8910a00-971e-11eb-9605-ad81f0c8dd47.jpg)
 ![7-8 P](https://user-images.githubusercontent.com/80503416/113727072-fcbd2780-971e-11eb-9f6c-764212d828f4.jpg)
 ![9-10 P](https://user-images.githubusercontent.com/80503416/113727087-ffb81800-971e-11eb-9f7d-adf2d1afb881.jpg)
